@@ -1,0 +1,30 @@
+footer{
+   
+    position: absolute;
+    background-color:  #d6d6c2;
+    width: 500px;
+   
+    font-size: large;
+    text-align: start;
+    
+}
+
+
+header{
+   
+    background-color:  #d6d6c2;
+    margin: 0;
+    padding: 10px;
+    font-size: large;
+    text-align: start;
+    height:"35px"
+}
+
+.inputBox{
+    padding: 10px;
+    width: 400px;
+}
+.btn.btn{
+    background-color: #006192;
+    color: #f2f2f2;
+}
