@@ -1,0 +1,25 @@
+.todo.todo{
+    display: flex;
+  justify-content: flex-start;  
+  transition: all 1s ease;
+  font-size: 1.5rem;
+  color: black;
+  /* margin: 0.5rem; */
+  min-height: 1em;
+  align-items: center;
+  margin: 0;
+  border-bottom: 1px solid #CCC;
+}
+.todo li {
+    flex: 1;
+  }
+
+  .deleteIcon{
+    cursor: pointer;
+  }
+  .completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+  }
+
+  
